@@ -1,2 +1,2 @@
 # MLxJupyter
-Machine Learning models and tutorials with Jupyter Notebook.
+Machine Learning models and tutorials with Python and Jupyter Notebook.
